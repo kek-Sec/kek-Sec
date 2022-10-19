@@ -30,10 +30,9 @@
     <h3>🛢 Database</h3>
     <p>
         <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB"/>
-        <!-- ms sql-->
         <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
-        <!-- microsoft sql server-->
         <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft-sql-server" alt="Microsoft SQL Server"/>
+        <img src="https://img.shields.io/badge/-Elastic%20Search-05122A?style=flat&logo=elasticsearch" alt="Elastic Search"/>
     </p>
     <h3>🔧 Tools</h3>
     <p>
