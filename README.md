@@ -30,8 +30,11 @@
     <h3>🛢 Database</h3>
     <p>
         <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB"/>
+        <!-- ms sql-->
         <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
+        <!-- microsoft sql server-->
         <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft-sql-server" alt="Microsoft SQL Server"/>
+        <!--elastic-->
         <img src="https://img.shields.io/badge/-Elastic%20Search-05122A?style=flat&logo=elasticsearch" alt="Elastic Search"/>
     </p>
     <h3>🔧 Tools</h3>
@@ -50,6 +53,10 @@
         <img src="https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazon-aws" alt="Amazon AWS"/>
         <img src="https://img.shields.io/badge/-Alibaba%20Cloud-05122A?style=flat&logo=alibaba-cloud" alt="Alibaba Cloud"/>
         <img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure" alt="Azure"/>
+        <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq" alt="RabbitMQ"/>
+        <img src="https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka" alt="Kafka"/>
+        <img src="https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0" alt="Auth0"/>
+        <img src="https://img.shields.io/badge/-Okta-05122A?style=flat&logo=okta" alt="Okta"/>
     </p>
 </div>
 
