@@ -8,7 +8,7 @@
 <div id="about">
   <h2>👨🏻‍💻 About Me</h2>
   <p>
-    I'm a software developer who is passionate about building reliable and cogent software. Currently working at <a href="https://www.natechsa.com/" target="_blank">Natech</a>.
+    I'm a software developer who is passionate about building reliable and cogent software. Currently working at <a href="https://www.natechsa.com/" target="_blank">Natech</a> as Azure DevOps Engineer!
   </p>
 </div>
 
